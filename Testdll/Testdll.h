@@ -8,6 +8,7 @@
 #ifdef __cplusplus
 extern "C" {
 #endif // __cplusplus
+	/*int FUNCTIONAPI add(void *x, void *y);*/
 	int FUNCTIONAPI add(int x, int y);
 #ifdef __cplusplus
 }
